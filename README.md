@@ -1,6 +1,8 @@
 # VRModelingStarter
 VRModelingStarter is an example project that demonstrates how 3D models can be created in a virtual / augmented environment. This project uses the Leap Motion controller to create polygons by pinching in the world.
 
+Click [here](http://www.filedropper.com/vrmodelingstarter100) to download a Windows build. 
+
 ### Before you begin
 VRModelingStarter requires the [Orion software update](https://developer.leapmotion.com/orion).
 
