@@ -20,3 +20,6 @@ While in manipulating mode, a vertex can be moved by double pinching inside the 
 ![Manipulating Mesh GIF](http://im2.ezgif.com/tmp/ezgif-1079933731.gif)
 
 The MeshManipulation script which allows rotating, translating and scaling of the mesh, is a modified version of the LeapRTS script found in the [Pinch Move](https://developer.leapmotion.com/gallery/pinch-move) add-on module.
+
+### Examples
+An example scene is available in the following directory: Scenes/Example.unity
